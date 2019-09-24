@@ -1,5 +1,5 @@
 """Common code for graphical and text UIs."""
-from neovim.compat import IS_PYTHON3
+from pynvim.compat import IS_PYTHON3
 
 
 __all__ = ('Screen',)
